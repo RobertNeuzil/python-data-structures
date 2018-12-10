@@ -17,4 +17,4 @@ instance = MyClass()
 d['object'] = instance
 
 d['object'].data
-print ( d.keys() )
+
